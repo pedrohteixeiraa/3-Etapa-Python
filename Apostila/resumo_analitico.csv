@@ -1,0 +1,35 @@
+﻿secao,item,valor
+Faturamento por loja (R$),Loja Centro,1209622.94
+Faturamento por loja (R$),Loja Sul Plaza,899453.2
+Faturamento por loja (R$),Loja Norte Shopping,841791.49
+Faturamento por loja (R$),Loja Cerrado,699500.13
+Faturamento por loja (R$),Loja Litoral,644112.4
+Ticket médio por loja (R$),Loja Norte Shopping,5970.15
+Ticket médio por loja (R$),Loja Cerrado,5422.48
+Ticket médio por loja (R$),Loja Centro,5328.74
+Ticket médio por loja (R$),Loja Sul Plaza,5259.96
+Ticket médio por loja (R$),Loja Litoral,4879.64
+Faturamento por região (R$),Sudeste,1209622.94
+Faturamento por região (R$),Sul,899453.2
+Faturamento por região (R$),Norte,841791.49
+Faturamento por região (R$),Centro-Oeste,699500.13
+Faturamento por região (R$),Nordeste,644112.4
+Top 5 produtos (quantidade),Smartphone,557.0
+Top 5 produtos (quantidade),Mesa de Escritório,541.0
+Top 5 produtos (quantidade),Mouse,518.0
+Top 5 produtos (quantidade),Impressora,495.0
+Top 5 produtos (quantidade),Webcam,464.0
+Faturamento mensal (R$),Janeiro/2024,329641.36
+Faturamento mensal (R$),Fevereiro/2024,429117.02
+Faturamento mensal (R$),Março/2024,317755.44
+Faturamento mensal (R$),Abril/2024,393913.32
+Faturamento mensal (R$),Maio/2024,247318.07
+Faturamento mensal (R$),Junho/2024,291561.73
+Faturamento mensal (R$),Julho/2024,436691.21
+Faturamento mensal (R$),Agosto/2024,354446.73
+Faturamento mensal (R$),Setembro/2024,511759.15
+Faturamento mensal (R$),Outubro/2024,450673.41
+Faturamento mensal (R$),Novembro/2024,221593.43
+Faturamento mensal (R$),Dezembro/2024,310009.29
+Destaques do ano (R$),Maior faturamento: Setembro/2024,511759.15
+Destaques do ano (R$),Menor faturamento: Novembro/2024,221593.43
