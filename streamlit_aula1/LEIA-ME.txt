@@ -1,0 +1,9 @@
+Passo a passo:
+1) pip install streamlit pandas
+2) python -m streamlit run caminho/do/arquivo/app.py
+3) Atualize a página (F5) e tire os prints:
+   - print1_ola_mundo.png
+   - print2_nome_idade.png
+   - print3_dashboard_final.png
+   Salve os prints dentro desta pasta (streamlit_aula1).
+OBS: troque a variável "idade" no app.py pela sua idade real.
